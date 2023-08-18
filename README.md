@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Html, Css ReactJs, JavaScript and TailWind CSS.
 - 📫 How to reach me (www.linkedin.com/in/amit-paswan-04134a23b)
 - 🔭 I’m currently working on a Portfolio Project
-- - 💬 Ask me about Front End Development
-- 
-
+- 💬 Ask me about Front End Development
+  
 
 
 <!--
