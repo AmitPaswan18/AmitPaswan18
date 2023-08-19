@@ -6,6 +6,15 @@
 - 🔭 I’m currently working on a Portfolio Project
 - 💬 Ask me about Front End Development
   
+  ## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&color=informational&logo=html)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&color=informational&logo=tailwindcss)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+
+
 
 
 <!--
